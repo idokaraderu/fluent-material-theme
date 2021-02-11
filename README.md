@@ -14,7 +14,7 @@ This repository publishes the following five themes.
 
 ## Usage
 
-1. Download The `.flutecolors` file.
+1. Download the `.flutecolors` file below.
     - [Material](https://raw.githubusercontent.com/idokaraderu/fluent-material-theme/main/Material.flutecolors)
     - [Material Darker](https://raw.githubusercontent.com/idokaraderu/fluent-material-theme/main/Material_Darker.flutecolors)
     - [Material Lighter](https://raw.githubusercontent.com/idokaraderu/fluent-material-theme/main/Material_Lighter.flutecolors)
