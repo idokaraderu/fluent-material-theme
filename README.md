@@ -1,4 +1,4 @@
-# [Material Theme](https://github.com/material-theme/vsc-material-theme) for [Fluent Terminal](https://github.com/felixse/FluentTerminal)
+# Material Theme for Fluent Terminal
 
 A port of the [Material Theme](https://github.com/material-theme/vsc-material-theme) for [Fluent Terminal](https://github.com/felixse/FluentTerminal)
 
