@@ -1,0 +1,29 @@
+{
+  "Name": "Material",
+  "Author": "Material Theme",
+  "Colors": {
+    "Foreground": "#EEFFFF",
+    "Background": "#263238",
+    "Cursor": "#F8F8F2",
+    "CursorAccent": "#44475A",
+    "Selection": "rgba(128, 203, 196, 0.2)",
+    "SelectionForeground": null,
+    "SelectionBackground": null,
+    "Black": "#000000",
+    "Red": "#F07178",
+    "Green": "#C3E88D",
+    "Yellow": "#FFCB6B",
+    "Blue": "#82AAFF",
+    "Magenta": "#C792EA",
+    "Cyan": "#89DDFF",
+    "White": "#FFFFFF",
+    "BrightBlack": "#546E7A",
+    "BrightRed": "#F07178",
+    "BrightGreen": "#C3E88D",
+    "BrightYellow": "#FFCB6B",
+    "BrightBlue": "#82AAFF",
+    "BrightMagenta": "#C792EA",
+    "BrightCyan": "#89DDFF",
+    "BrightWhite": "#FFFFFF"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Name": "Material Darker",
+  "Author": "Material Theme",
+  "Colors": {
+    "Foreground": "#EEFFFF",
+    "Background": "#212121",
+    "Cursor": "#F8F8F2",
+    "CursorAccent": "#44475A",
+    "Selection": "rgba(97, 97, 97, 0.5)",
+    "SelectionForeground": null,
+    "SelectionBackground": null,
+    "Black": "#000000",
+    "Red": "#F07178",
+    "Green": "#C3E88D",
+    "Yellow": "#FFCB6B",
+    "Blue": "#82AAFF",
+    "Magenta": "#C792EA",
+    "Cyan": "#89DDFF",
+    "White": "#FFFFFF",
+    "BrightBlack": "#545454",
+    "BrightRed": "#F07178",
+    "BrightGreen": "#C3E88D",
+    "BrightYellow": "#FFCB6B",
+    "BrightBlue": "#82AAFF",
+    "BrightMagenta": "#C792EA",
+    "BrightCyan": "#89DDFF",
+    "BrightWhite": "#FFFFFF"
+  }
+}

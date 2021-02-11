@@ -1,0 +1,29 @@
+{
+  "Name": "Material Lighter",
+  "Author": "Material Theme",
+  "Colors": {
+    "Foreground": "#EEFFFF",
+    "Background": "#FAFAFA",
+    "Cursor": "#272727",
+    "CursorAccent": "#44475A",
+    "Selection": "rgba(128, 203, 196, 0.4)",
+    "SelectionForeground": null,
+    "SelectionBackground": null,
+    "Black": "#000000",
+    "Red": "#E53935",
+    "Green": "#91B859",
+    "Yellow": "#E2931D",
+    "Blue": "#6182B8",
+    "Magenta": "#9C3EDA",
+    "Cyan": "#39ADB5",
+    "White": "#FFFFFF",
+    "BrightBlack": "#90A4AE",
+    "BrightRed": "#E53935",
+    "BrightGreen": "#91B859",
+    "BrightYellow": "#E2931D",
+    "BrightBlue": "#6182B8",
+    "BrightMagenta": "#9C3EDA",
+    "BrightCyan": "#39ADB5",
+    "BrightWhite": "#FFFFFF"
+  }
+}
